@@ -160,6 +160,6 @@ while ( the_story_continues == True ):
             print("Try Again? (death 2)")
 
         else:
-            print("unknown answer!")
+            print("unknown answer")
     else:
         print("unknown answer")

@@ -1,4 +1,4 @@
-""" short choose-your-own adventure game for a school project - A Raam """
+""" short choose-your-own adventure game for a school project - AR """
 
 the_story_continues = True
 
